@@ -1,0 +1,89 @@
+---
+booktitle: Proceedings of The 7th Conference on Robot Learning
+shortname: CoRL
+volume: '229'
+year: '2023'
+start: 2023-11-06
+end: 2023-11-09
+published: 2023-12-02
+conference_number: '7'
+sections:
+- name: Oral
+  title: Oral
+- name: Poster
+  title: Poster
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: CoRL-2023
+month: 0
+cycles: false
+bibtex_editor: Tan, Jie and Toussaint, Marc and Darvish, Kourosh
+editor:
+- given: Jie
+  family: Tan
+- given: Marc
+  family: Toussaint
+- given: Kourosh
+  family: Darvish
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 7th Conference on Robot Learning
+    Held in Atlanta, USA on 06-09 November 2023
+
+  Published as Volume 229 by the Proceedings of Machine Learning Research on 02 December 2023.
+
+  Volume Edited by:
+    Jie Tan
+    Marc Toussaint
+    Kourosh Darvish
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 06--09 Nov
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v229"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v229
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v229
+email: ''
+conference:
+  name: Conference on Robot Learning
+  url: https://www.corl2023.org/
+  location: Atlanta, USA
+  dates:
+  - 2023-11-06
+  - 2023-11-07
+  - 2023-11-08
+  - 2023-11-09
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v229/corl23.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v229/corl23.bib
