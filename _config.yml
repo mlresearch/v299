@@ -4,7 +4,7 @@ booktitle: Proceedings of the 2025 Conference on Applied Machine Learning for In
 shortname: CAMLIS
 year: '2025'
 volume: '299'
-start: &1 2025-10-22
+start: 2025-10-22
 end: 2025-10-24
 published: 2025-12-02
 conference_number: '8'
@@ -70,7 +70,7 @@ conference:
   url: https://www.camlis.org/
   location: Sands Capital, Arlington VA, USA
   dates:
-  - *1
+  - 2025-10-22
   - 2025-10-23
   - 2025-10-24
 analytics:
